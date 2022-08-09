@@ -101,7 +101,7 @@ h6 a:hover {
 }
 
 a {
-    color: #E9564C;
+    color: #FDD610;
     text-decoration: none;
     outline: none;
 }
@@ -205,7 +205,7 @@ button:focus{
 
 .top-header .navbar{
 	padding: 15px 0px;
-    background-color: #EBC59E;
+    background-color: #001127;
 }
 
 .top-header .navbar .navbar-collapse ul li a{
@@ -215,13 +215,12 @@ button:focus{
 }
 
 .top-header .navbar .navbar-collapse ul li a.active{
-	background: #E9564C;
+	background: #FDD610;
     color: #ffffff;
-: #63c7bd;
 }
 
 .top-header .navbar .navbar-collapse ul li a:hover{
-	background: #E9564C;
+	background: #FDD610;
 	color: #ffffff;
 }
 
@@ -270,11 +269,11 @@ button:focus{
 }
 
 .navbar-toggler:hover{
-	border: 1px solid #dd666c;
+	border: 1px solid #FDD610;
 }
 
 .navbar-toggler:hover span{
-	background: #dd666c;
+	background: #FDD610;
 }
 
 
@@ -348,7 +347,7 @@ button:focus{
 	z-index: 3;
 }
 .lbox-details h2 strong{
-	color: #dd666c;
+	color: #FDD610;
 	font-size: 40px;
 	font-family: 'Montserrat' serif;
 }
@@ -363,7 +362,7 @@ button:focus{
 	z-index: 3;
 }
 .lbox-details a.btn:hover{
-	background: #dd666c;
+	background: #FDD610;
 }
 
 /*------------------------------------------------------------------
@@ -384,7 +383,7 @@ button:focus{
 	color: #222222;
 }
 .title-box h2 span{
-	color: #dd666c;
+	color: #FDD610;
 	text-decoration: underline;
 }
 .about-main-info h2{
@@ -392,7 +391,7 @@ button:focus{
 	font-family: 'Montserrat';
 }
 .about-main-info h2 span{
-	color: #dd666c;
+	color: #FDD610;
 	text-decoration: underline;
 }
 
@@ -488,7 +487,7 @@ button:focus{
 }
 
 .main-timeline-box .time-line-date-content .mbr-timeline-date{
-	background: #dd666c;
+	background: #FDD610;
 	color: #ffffff;
 }
 .main-timeline-box .reverse .time-line-date-content .mbr-timeline-date{
@@ -529,7 +528,7 @@ button:focus{
 }
 .family-info{
 	padding: 25px 30px;
-	background-color: #EBC59E;
+	background-color: #001127;
 }
 .family-info h4{
 	font-family: 'Montserrat';
@@ -723,22 +722,25 @@ select.form-control:not([size]):not([multiple]){
 }
 
 #story .place {
-    background-color: #F5F5F5;
+    background-color: #FFFFBC;
 }
 
 #story .place div{
-    background-color: #F5F5F5;
+    background-color: #FFFFBC;
 }
 
 .family-info h4 {
     color:white;
+	font-family: 'Montserrat';
 }
 
 .valeurs p{
-    color:#E9564C;
+    color:#FDD610;
+	font-family: 'Montserrat';
+	font-size: smaller;
 }
 .valeurs:hover {
-    color:#E9564C;
+    color:#FDD610;
 }
 
 
